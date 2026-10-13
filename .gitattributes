@@ -1,0 +1,14 @@
+* text=auto eol=lf
+*.php text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+
+# Keep development tools and tests in Git, not release archives.
+/tests export-ignore
+/phpunit.xml export-ignore
+/CHANGELOG.md export-ignore
+/CONTRIBUTING.md export-ignore
+/.github export-ignore
+/.gitignore export-ignore
+/.gitattributes export-ignore
+/composer.lock export-ignore
