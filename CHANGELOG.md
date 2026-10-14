@@ -2,6 +2,12 @@
 
 All notable changes to WilyCode Database Model are documented here.
 
+## [Unreleased]
+
+### Changed
+
+- Updated related-package links to the renamed database packages.
+
 ## [0.1.0] - 2026-10-13
 
 ### Added
