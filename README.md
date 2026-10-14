@@ -524,9 +524,9 @@ For eager-loaded relations, select a column under the relationship name containi
 | Package | Purpose |
 | --- | --- |
 | [wilycode/database-query](https://github.com/wilycode/database-query) | Build and compile SQL queries. |
-| [wilycode/database-driver](https://github.com/wilycode/database-driver) | Driver-independent connection/query contracts. |
-| [wilycode/database-driver-pdo](https://github.com/wilycode/database-driver-pdo) | PDO driver and parameter binder. |
-| [wilycode/database-driver-mysqli](https://github.com/wilycode/database-driver-mysqli) | MySQLi driver and parameter binder. |
+| [wilycode/database](https://github.com/wilycode/database) | Driver-independent connection/query contracts. |
+| [wilycode/database-pdo](https://github.com/wilycode/database-pdo) | PDO driver and parameter binder. |
+| [wilycode/database-mysqli](https://github.com/wilycode/database-mysqli) | MySQLi driver and parameter binder. |
 | [wilycode/database-query-executor](https://github.com/wilycode/database-query-executor) | Execute compiled queries using a driver and binder. |
 | [wilycode/database-repository](https://github.com/wilycode/database-repository) | Repository integration for model persistence and querying. |
 
